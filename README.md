@@ -26,8 +26,4 @@
 
 ---
 
-## 👩‍💻 Author
 
-**Manthri Akanksha**  
-B.Tech AIML – Sreyas Institute of Engineering and Technology  
-Email: [add your email here]
